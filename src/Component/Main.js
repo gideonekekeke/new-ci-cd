@@ -2,9 +2,10 @@ import React from 'react'
 
 function Main() {
   return (
-    <div>
-      hello
-    </div>
+   <center>
+     <div>BRIGHTERDAYS CODELAB</div>
+     <div>WE ARE WORKING</div>
+   </center>
   )
 }
 
